@@ -4,3 +4,4 @@
 
 local opt = vim.opt
 opt.wrap = true -- Abilita ou desabilita quebra de linha.
+opt.swapfile = false -- set vim.opt.swapfile
